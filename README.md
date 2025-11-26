@@ -1,7 +1,3 @@
-# Radon-Analysis-Tools
-Scripts and utilities for the measurement, processing, and comprehensive analysis of experimental data from radon gas concentration.
-
-
 ## Environmental Radon Gas ($Rn^{222}$) Measurement and Data Analysis
 
 This repository serves as a documentation and portfolio piece detailing the methodology and analysis techniques used during my research on environmental radon gas ($Rn^{222}$).
